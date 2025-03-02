@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I’m a passionate **Full-Stack Developer** specializing in the **MERN Stack**, with a strong foundation in **HTML**, **CSS**, and **JavaScript**. I love building scalable, efficient, and user-friendly applications that solve real-world problems. 💻
+I’m a **Full-Stack Developer** and **AI/ML Enthusiast** with a passion for building scalable, efficient, and user-friendly applications. My expertise lies in the **MERN Stack** (MongoDB, Express, React, Node.js), and I have a strong foundation in **HTML**, **CSS**, and **JavaScript**. 💻
 
-Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where I dived deep into **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**. I’m now exploring the fascinating intersection of web development and AI to create intelligent applications. 🤖
+Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where I gained hands-on experience in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**. I’m now exploring the intersection of web development and AI to create intelligent, cutting-edge applications. 🤖
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ **Technologies & Tools**
 
 ### **Frontend Development**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,20 +44,20 @@ Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where
 
 ---
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 
 | ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true) |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 **GitHub Achievements**
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=4)
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 **Featured Projects**
 
 ### **1. [Project Name]**
 ![Project Demo](https://via.placeholder.com/800x400.png?text=Project+Demo+or+GIF)
@@ -79,7 +79,7 @@ Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where
 
 ---
 
-## 📫 Let's Connect!
+## 📫 **Let's Connect!**
 
 I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out! 😄
 
