@@ -1,80 +1,70 @@
-# Hi 👋, I'm Sat Narayan Sah
+# Hello, I'm [Your Name]! 👋
 
-<h3 align="center">A Passionate Full-Stack Developer from Nepal</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) ![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satnarayansah&label=Profile%20views&color=0e75b6&style=flat" alt="satnarayansah" /> </p>
+## 🚀 About Me
 
----
+I am a passionate Full-Stack Developer specializing in the MERN Stack, with a strong foundation in HTML, CSS, and JavaScript. My expertise spans modern web technologies, enabling me to build scalable, efficient, and user-friendly applications. Additionally, I have recently completed a 3-month bootcamp in AI/ML Engineering, diving deep into Machine Learning, Deep Learning, Natural Language Processing (NLP), and related domains.
 
-- 🌱 Currently learning **React** and **Django** to enhance my web development skills.
+## 🛠️ Technologies & Tools
 
-- 📧 Reach me at **satnarayan5166@gmail.com**
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Vue
+- Next.js
+- Nuxt.js
+- TailwindCSS
 
-- 🔧 Building innovative solutions and completing exciting projects to expand my expertise.
+### Backend
+- Node.js
+- Express
 
----
+### Database
+- MongoDB
 
-## 👨‍💻 Connect with Me:
+### AI/ML
+- Python
+- TensorFlow
+- Keras
+- OpenCV
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/satnarayansah/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/SatNarayanSahOfficial/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
+### State Management
+- Redux
 
----
+### Version Control
+- Git
 
-## 🔧 Skills and Tools:
+## 📈 GitHub Stats
 
-### **Programming Languages**
-- JavaScript, Python, TypeScript, C, C++
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### **Front-End Development**
-- React, Vue.js, Angular, HTML5, CSS3, Tailwind CSS, Bootstrap
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-### **Back-End Development**
-- Django, Node.js, PHP, RESTful APIs
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
 
-### **Design Tools**
-- Figma, Adobe XD, Photoshop, Illustrator
+## 🏆 GitHub Achievements
 
-### **Other Tools & Platforms**
-- Docker, Git, GitHub, VS Code, Netlify, Firebase
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
 
----
+## 🌟 Projects
 
-## 🌐 Projects
+### Project 1: [Project Name]
+A brief description of the project, highlighting the technologies used and the problem it solves.
 
-- **[The Weddy Filmer](https://theweddyfilmer.com)**: Full-stack freelance project using **React** and **Django** to deliver a responsive client-focused wedding site.
+### Project 2: [Project Name]
+A brief description of the project, highlighting the technologies used and the problem it solves.
 
-- **Blog Website**: Created as the final project in the Janakpur Tech Bootcamp, featuring dynamic content using **React** and **Django**.
+### Project 3: [Project Name]
+A brief description of the project, highlighting the technologies used and the problem it solves.
 
-- **Bootcamp Mini-Projects**:
-  - Country Details Finder
-  - GitHub User Finder
-  - Foodmandu Clone
-  - BMI Calculator
-  - Length Meter Converter
+### Project 4: [Project Name]
+A brief description of the project, highlighting the technologies used and the problem it solves.
 
----
+## 📫 How to Reach Me
 
-## 🔢 GitHub Stats:
+Feel free to reach out if you have any questions or just want to connect!
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satnarayansah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satnarayansah&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satnarayansah&" alt="GitHub Streak" />
-</p>
-
----
-
-## 💖 Support
-
-If you like my work, feel free to connect or support me! Let’s grow together in the world of development. 🙏
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
