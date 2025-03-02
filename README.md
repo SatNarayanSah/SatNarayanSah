@@ -56,27 +56,7 @@ I’m a passionate **Full-Stack Developer** and **Open Source Enthusiast** with 
 
 ---
 
-## 🌟 **Featured Projects**
 
-### **1. [Project Name]**
-![Project Demo](https://via.placeholder.com/800x400.png?text=Project+Demo+or+GIF)
-- **Description**: A brief description of the project, highlighting the technologies used and the problem it solves.
-- **Tech Stack**: React, Node.js, MongoDB
-- **[Live Demo](#)** | **[Source Code](#)**
-
-### **2. [Project Name]**
-![Project Demo](https://via.placeholder.com/800x400.png?text=Project+Demo+or+GIF)
-- **Description**: A brief description of the project, highlighting the technologies used and the problem it solves.
-- **Tech Stack**: Python, Flask, OpenCV
-- **[Live Demo](#)** | **[Source Code](#)**
-
-### **3. [Project Name]**
-![Project Demo](https://via.placeholder.com/800x400.png?text=Project+Demo+or+GIF)
-- **Description**: A brief description of the project, highlighting the technologies used and the problem it solves.
-- **Tech Stack**: Next.js, TailwindCSS, MongoDB
-- **[Live Demo](#)** | **[Source Code](#)**
-
----
 
 ## 📫 **Let's Connect!**
 
