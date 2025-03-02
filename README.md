@@ -6,11 +6,13 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
-I’m a **Full-Stack Developer** and **Open Source Enthusiast** with a passion for building scalable, efficient, and user-friendly applications. My expertise lies in **JavaScript**, **React**, **Node.js**, and **Python**, and I enjoy working on projects that solve real-world problems. 💻
+I’m a passionate **Full-Stack Developer** and **Open Source Enthusiast** with expertise in **JavaScript**, **React**, **Node.js**, and **Python**. I love building scalable, efficient, and user-friendly applications that solve real-world problems. 💻
 
-I’m also an active contributor to open-source projects and love collaborating with developers worldwide. 🌍
+- 🌍 **Open Source Contributor**: Actively contributing to open-source projects and collaborating with developers worldwide.
+- 🧠 **Continuous Learner**: Always exploring new technologies and frameworks to stay updated with the latest trends.
+- 🚀 **Problem Solver**: Enjoy tackling complex challenges and delivering innovative solutions.
 
 ---
 
