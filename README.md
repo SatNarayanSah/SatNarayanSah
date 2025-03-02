@@ -1,16 +1,16 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Sat Narayan Sah! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&label=Profile+Views)](https://github.com/yourusername)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)](https://github.com/yourusername)
+[![Profile Views](https://komarev.com/ghpvc/?username=SatNarayanSah&color=blue&label=Profile+Views)](https://github.com/SatNarayanSah)
+[![GitHub Followers](https://img.shields.io/github/followers/SatNarayanSah?label=Follow&style=social)](https://github.com/SatNarayanSah)
+[![GitHub Stars](https://img.shields.io/github/stars/SatNarayanSah?label=Stars&style=social)](https://github.com/SatNarayanSah)
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Developer** and **AI/ML Enthusiast** with a passion for building scalable, efficient, and user-friendly applications. My expertise lies in the **MERN Stack** (MongoDB, Express, React, Node.js), and I have a strong foundation in **HTML**, **CSS**, and **JavaScript**. 💻
+I’m a **Full-Stack Developer** and **Open Source Enthusiast** with a passion for building scalable, efficient, and user-friendly applications. My expertise lies in **JavaScript**, **React**, **Node.js**, and **Python**, and I enjoy working on projects that solve real-world problems. 💻
 
-Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where I gained hands-on experience in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**. I’m now exploring the intersection of web development and AI to create intelligent, cutting-edge applications. 🤖
+I’m also an active contributor to open-source projects and love collaborating with developers worldwide. 🌍
 
 ---
 
@@ -21,21 +21,16 @@ Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **AI/ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,14 +41,14 @@ Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where
 
 ## 📈 **GitHub Stats**
 
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true) |
-|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Sat Narayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatNarayanSah&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatNarayanSah&layout=compact&theme=radical&hide_border=true) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
 ## 🏆 **GitHub Achievements**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SatNarayanSah&theme=radical&no-frame=true&row=2&column=4)
 
 ---
 
@@ -62,19 +57,19 @@ Recently, I completed an intensive **3-month AI/ML Engineering bootcamp**, where
 ### **1. [Project Name]**
 ![Project Demo](https://via.placeholder.com/800x400.png?text=Project+Demo+or+GIF)
 - **Description**: A brief description of the project, highlighting the technologies used and the problem it solves.
-- **Tech Stack**: React, Node.js, MongoDB, TensorFlow
+- **Tech Stack**: React, Node.js, MongoDB
 - **[Live Demo](#)** | **[Source Code](#)**
 
 ### **2. [Project Name]**
 ![Project Demo](https://via.placeholder.com/800x400.png?text=Project+Demo+or+GIF)
 - **Description**: A brief description of the project, highlighting the technologies used and the problem it solves.
-- **Tech Stack**: Vue, Express, OpenCV, Python
+- **Tech Stack**: Python, Flask, OpenCV
 - **[Live Demo](#)** | **[Source Code](#)**
 
 ### **3. [Project Name]**
 ![Project Demo](https://via.placeholder.com/800x400.png?text=Project+Demo+or+GIF)
 - **Description**: A brief description of the project, highlighting the technologies used and the problem it solves.
-- **Tech Stack**: Next.js, TailwindCSS, Keras, MongoDB
+- **Tech Stack**: Next.js, TailwindCSS, MongoDB
 - **[Live Demo](#)** | **[Source Code](#)**
 
 ---
@@ -90,4 +85,4 @@ I’m always open to collaborating on exciting projects or discussing new ideas.
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Sat Narayan Sah](https://github.com/SatNarayanSah)
