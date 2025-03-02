@@ -52,7 +52,7 @@ I’m a passionate **Full-Stack Developer** and **Open Source Enthusiast** with 
 
 ## 🏆 **GitHub Achievements**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SatNarayanSah&theme=radical&no-frame=true&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SatNarayanSah&theme=radical&no-frame=true&row=2&column=8)
 
 ---
 
